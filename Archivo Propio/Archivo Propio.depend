@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1587215761 source:c:\users\ppnt\desktop\utn\prog ii\2020\archivo propio\main.cpp
+	<iostream>
+	<stdlib.h>
+	<string.h>
+	<stdio.h>
+	"tipos.h"
+	"articulos.h"
+	"clientes.h"
+	"ventas.h"
+
+1587214205 c:\users\ppnt\desktop\utn\prog ii\2020\archivo propio\tipos.h
+
+1586907059 c:\users\ppnt\desktop\utn\prog ii\2020\archivo propio\articulos.h
+
+1587049751 c:\users\ppnt\desktop\utn\prog ii\2020\archivo propio\clientes.h
+
+1587244066 c:\users\ppnt\desktop\utn\prog ii\2020\archivo propio\ventas.h
+
